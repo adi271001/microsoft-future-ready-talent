@@ -7,7 +7,7 @@
   <p align="center">
     In this i've tried to predict the probability of a person having diabetes based on some data fields...
     <br />
-    <a href=""><strong>View Project »</strong></a>
+    <a href="https://diabetes-prediction2710.herokuapp.com/predict"><strong>View Project »</strong></a>
     <br />
     <br />
     <a href="https://github.com/adi271001/microsoft-future-ready-talent">View Codes</a>
@@ -53,7 +53,7 @@ Version python 3.8 <
  
 1. Clone the repo
 ```
-git clone https://github.com/github_Abhayparashar31/Diabetes-prediction.git
+git clone https://github.com/adi271001/microsoft-future-ready-talent.git
 ```
 2. Install Python Libraries
 ```
