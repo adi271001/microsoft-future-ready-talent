@@ -9,6 +9,9 @@
     <br />
     <a href="https://diabetes-prediction2710.herokuapp.com/"><strong>View Project »</strong></a>
     <br />
+  <br />
+    <a href="https://drive.google.com/drive/folders/1S7QCnN_5T8Ho9guEp2N_SNA17JQHfcm4?usp=sharing"><strong>Project demo »</strong></a>
+    <br />
     <br />
     <a href="https://github.com/adi271001/microsoft-future-ready-talent">View Codes</a>
   </p>
